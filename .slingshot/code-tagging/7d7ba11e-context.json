@@ -1,0 +1,15 @@
+{
+  "filename": "README.md",
+  "path": "README.md",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "7eb0dc73": {
+      "value": "https://github.com/testpsOM/testps i have created the github repo . now i want to push this code too github and run in CI omPW"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

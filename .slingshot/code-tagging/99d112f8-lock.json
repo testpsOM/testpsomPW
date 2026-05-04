@@ -1,0 +1,77 @@
+{
+  "package.json": {
+    "filename": "package.json",
+    "path": "package.json",
+    "version": "1.2",
+    "contextFile": "99d112f8-context.json",
+    "chunks": {
+      "77cda6": {
+        "user": "Anwesh Reddy Ulindala",
+        "model": "claude-sonnet-4@20250514",
+        "timestamp": 1777797050,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "2.4.1",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "f39c56e2"
+        },
+        "hash": "7d7b7e04",
+        "messageId": "system_3333ffe0-46ca-11f1-a159-17ce20be39cc",
+        "codeBlockId": null,
+        "isActive": true
+      }
+    },
+    "lines": {
+      "5": {
+        "chunkId": "77cda6",
+        "hash": "f4278672",
+        "encoded": "%22scripts%22:%20%7B",
+        "prevChunkIds": []
+      },
+      "6": {
+        "chunkId": "77cda6",
+        "hash": "8aa93895",
+        "encoded": "%22test%22:%20%22playwright%20test%22,",
+        "prevChunkIds": []
+      },
+      "7": {
+        "chunkId": "77cda6",
+        "hash": "63d60069",
+        "encoded": "%22test:headed%22:%20%22playwright%20test%20--headed%22,",
+        "prevChunkIds": []
+      },
+      "8": {
+        "chunkId": "77cda6",
+        "hash": "c7b33fd4",
+        "encoded": "%22test:ui%22:%20%22playwright%20test%20--ui%22,",
+        "prevChunkIds": []
+      },
+      "9": {
+        "chunkId": "77cda6",
+        "hash": "68a49362",
+        "encoded": "%22record%22:%20%22playwright%20codegen%22,",
+        "prevChunkIds": []
+      },
+      "10": {
+        "chunkId": "77cda6",
+        "hash": "47cb0ca2",
+        "encoded": "%22record:localhost%22:%20%22playwright%20codegen%20localhost:3000%22,",
+        "prevChunkIds": []
+      },
+      "11": {
+        "chunkId": "77cda6",
+        "hash": "61b5ec0f",
+        "encoded": "%22show-report%22:%20%22playwright%20show-report%22",
+        "prevChunkIds": []
+      },
+      "12": {
+        "chunkId": "77cda6",
+        "hash": "2af362fb",
+        "encoded": "%7D,",
+        "prevChunkIds": []
+      }
+    }
+  }
+}

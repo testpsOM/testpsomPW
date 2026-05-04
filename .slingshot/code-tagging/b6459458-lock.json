@@ -1,0 +1,263 @@
+{
+  ".gitignore": {
+    "filename": ".gitignore",
+    "path": ".gitignore",
+    "version": "1.2",
+    "contextFile": "b6459458-context.json",
+    "chunks": {
+      "6b9860": {
+        "user": "Anwesh Reddy Ulindala",
+        "model": "claude-sonnet-4@20250514",
+        "timestamp": 1777889181,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "2.4.1",
+        "source": "agent",
+        "type": "agentWriteTool",
+        "extraContext": {
+          "promptMessage": "7eb0dc73"
+        },
+        "hash": "02e0f0f2",
+        "messageId": "system_ace0f740-47a0-11f1-a159-17ce20be39cc",
+        "codeBlockId": null,
+        "isActive": true
+      }
+    },
+    "lines": {
+      "0": {
+        "chunkId": "6b9860",
+        "hash": "62261fef",
+        "encoded": "#%20Node.js",
+        "prevChunkIds": []
+      },
+      "1": {
+        "chunkId": "6b9860",
+        "hash": "e645e5bb",
+        "encoded": "node_modules/",
+        "prevChunkIds": []
+      },
+      "2": {
+        "chunkId": "6b9860",
+        "hash": "19ef28c5",
+        "encoded": "npm-debug.log*",
+        "prevChunkIds": []
+      },
+      "3": {
+        "chunkId": "6b9860",
+        "hash": "f215c152",
+        "encoded": "yarn-debug.log*",
+        "prevChunkIds": []
+      },
+      "4": {
+        "chunkId": "6b9860",
+        "hash": "da8ae2af",
+        "encoded": "yarn-error.log*",
+        "prevChunkIds": []
+      },
+      "6": {
+        "chunkId": "6b9860",
+        "hash": "46a59a1f",
+        "encoded": "#%20Playwright",
+        "prevChunkIds": []
+      },
+      "7": {
+        "chunkId": "6b9860",
+        "hash": "1ee65c1d",
+        "encoded": "test-results/",
+        "prevChunkIds": []
+      },
+      "8": {
+        "chunkId": "6b9860",
+        "hash": "a91ea9f7",
+        "encoded": "playwright-report/",
+        "prevChunkIds": []
+      },
+      "9": {
+        "chunkId": "6b9860",
+        "hash": "275b31bb",
+        "encoded": "playwright/.cache/",
+        "prevChunkIds": []
+      },
+      "11": {
+        "chunkId": "6b9860",
+        "hash": "704f3615",
+        "encoded": "#%20Environment%20variables",
+        "prevChunkIds": []
+      },
+      "12": {
+        "chunkId": "6b9860",
+        "hash": "a12da5a0",
+        "encoded": ".env",
+        "prevChunkIds": []
+      },
+      "13": {
+        "chunkId": "6b9860",
+        "hash": "aa3d8328",
+        "encoded": ".env.local",
+        "prevChunkIds": []
+      },
+      "14": {
+        "chunkId": "6b9860",
+        "hash": "d511213e",
+        "encoded": ".env.development.local",
+        "prevChunkIds": []
+      },
+      "15": {
+        "chunkId": "6b9860",
+        "hash": "5dd6d879",
+        "encoded": ".env.test.local",
+        "prevChunkIds": []
+      },
+      "16": {
+        "chunkId": "6b9860",
+        "hash": "5c7f55e3",
+        "encoded": ".env.production.local",
+        "prevChunkIds": []
+      },
+      "18": {
+        "chunkId": "6b9860",
+        "hash": "ed3c7318",
+        "encoded": "#%20IDE",
+        "prevChunkIds": []
+      },
+      "19": {
+        "chunkId": "6b9860",
+        "hash": "4853d9f2",
+        "encoded": ".vscode/",
+        "prevChunkIds": []
+      },
+      "20": {
+        "chunkId": "6b9860",
+        "hash": "109e0510",
+        "encoded": ".idea/",
+        "prevChunkIds": []
+      },
+      "21": {
+        "chunkId": "6b9860",
+        "hash": "303ce3f4",
+        "encoded": "*.swp",
+        "prevChunkIds": []
+      },
+      "22": {
+        "chunkId": "6b9860",
+        "hash": "de234753",
+        "encoded": "*.swo",
+        "prevChunkIds": []
+      },
+      "24": {
+        "chunkId": "6b9860",
+        "hash": "965fde88",
+        "encoded": "#%20OS",
+        "prevChunkIds": []
+      },
+      "25": {
+        "chunkId": "6b9860",
+        "hash": "19a0733a",
+        "encoded": ".DS_Store",
+        "prevChunkIds": []
+      },
+      "26": {
+        "chunkId": "6b9860",
+        "hash": "1b729e77",
+        "encoded": "Thumbs.db",
+        "prevChunkIds": []
+      },
+      "28": {
+        "chunkId": "6b9860",
+        "hash": "93536337",
+        "encoded": "#%20Logs",
+        "prevChunkIds": []
+      },
+      "29": {
+        "chunkId": "6b9860",
+        "hash": "f9e198a9",
+        "encoded": "logs",
+        "prevChunkIds": []
+      },
+      "30": {
+        "chunkId": "6b9860",
+        "hash": "ff63eae6",
+        "encoded": "*.log",
+        "prevChunkIds": []
+      },
+      "32": {
+        "chunkId": "6b9860",
+        "hash": "6773295c",
+        "encoded": "#%20Runtime%20data",
+        "prevChunkIds": []
+      },
+      "33": {
+        "chunkId": "6b9860",
+        "hash": "8169c7ba",
+        "encoded": "pids",
+        "prevChunkIds": []
+      },
+      "34": {
+        "chunkId": "6b9860",
+        "hash": "72357e0e",
+        "encoded": "*.pid",
+        "prevChunkIds": []
+      },
+      "35": {
+        "chunkId": "6b9860",
+        "hash": "cb168c3c",
+        "encoded": "*.seed",
+        "prevChunkIds": []
+      },
+      "36": {
+        "chunkId": "6b9860",
+        "hash": "555034ca",
+        "encoded": "*.pid.lock",
+        "prevChunkIds": []
+      },
+      "38": {
+        "chunkId": "6b9860",
+        "hash": "fc828231",
+        "encoded": "#%20Coverage%20directory%20used%20by%20tools%20like%20istanbul",
+        "prevChunkIds": []
+      },
+      "39": {
+        "chunkId": "6b9860",
+        "hash": "09b7503c",
+        "encoded": "coverage/",
+        "prevChunkIds": []
+      },
+      "41": {
+        "chunkId": "6b9860",
+        "hash": "1f740c3f",
+        "encoded": "#%20TypeScript",
+        "prevChunkIds": []
+      },
+      "42": {
+        "chunkId": "6b9860",
+        "hash": "5c4c0e9b",
+        "encoded": "*.tsbuildinfo",
+        "prevChunkIds": []
+      },
+      "44": {
+        "chunkId": "6b9860",
+        "hash": "57956018",
+        "encoded": "#%20Optional%20npm%20cache%20directory",
+        "prevChunkIds": []
+      },
+      "45": {
+        "chunkId": "6b9860",
+        "hash": "db5202fb",
+        "encoded": ".npm",
+        "prevChunkIds": []
+      },
+      "47": {
+        "chunkId": "6b9860",
+        "hash": "ab392f58",
+        "encoded": "#%20Optional%20eslint%20cache",
+        "prevChunkIds": []
+      },
+      "48": {
+        "chunkId": "6b9860",
+        "hash": "35cbf501",
+        "encoded": ".eslintcache",
+        "prevChunkIds": []
+      }
+    }
+  }
+}

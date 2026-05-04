@@ -1,0 +1,15 @@
+{
+  "filename": "package.json",
+  "path": "package.json",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "f39c56e2": {
+      "value": "not getting option to record scripts"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}
