@@ -1,6 +1,6 @@
-# Playwright Test Automation Project
+# testpsomPW - Playwright Test Automation Project
 
-This project contains automated tests using Playwright framework.
+Playwright testing project with automated test suite.
 
 ## Setup
 
